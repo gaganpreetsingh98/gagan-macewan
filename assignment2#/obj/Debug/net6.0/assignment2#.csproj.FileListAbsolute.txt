@@ -1,0 +1,14 @@
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.AssemblyInfoInputs.cache
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.AssemblyInfo.cs
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.csproj.CoreCompileInputs.cache
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\bin\Debug\net6.0\assignment2#.exe
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\bin\Debug\net6.0\assignment2#.deps.json
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\bin\Debug\net6.0\assignment2#.runtimeconfig.json
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\bin\Debug\net6.0\assignment2#.dll
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\bin\Debug\net6.0\assignment2#.pdb
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.dll
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\refint\assignment2#.dll
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.pdb
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\assignment2#.genruntimeconfig.cache
+C:\Users\student-avd\source\repos\assignment2#\assignment2#\obj\Debug\net6.0\ref\assignment2#.dll
